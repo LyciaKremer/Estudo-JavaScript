@@ -1,0 +1,36 @@
+Tipos de variáveis:
+var: Declara uma variável, opcionalmente, inicializando-a com um valor.
+let: Declara uma variável local de escopo do bloco, opcionalmente, inicializando-a com um valor
+const: Declara uma constante de escopo de bloco, apenas de leitura.
+
+Uso do "=":
+=: Atribuição;
+==: Comparação de valor;
+===: Comparação de valor igualdade;
+!==: Compara se os valores e tipos são diferentes;
+!=: Compara se os valores são diferentes;
+ 
+Operadores lógicos:
+&&: Operador AND;
+||: Operador OR;
+ i++: Operador de incremento;
+i--: Operador de decremento;
+
+Estruturas condicionais:
+if(condição){
+
+     //bloco de instrunções
+ 
+} else if(condição){
+ 
+      //bloco de instrunções
+ 
+} else{
+ 
+      //bloco de instrunções
+ 
+}
+
+break: Parada obrigatória;
+continue: Passa para a próxima;
+

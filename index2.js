@@ -1,0 +1,15 @@
+let cor = "azul";
+
+switch(cor){
+    case "verde":
+        console.log("siga");
+        break;
+    case "amarelo":
+        console.log("atenão");
+        break;        
+    case "vermelho":
+        console.log("pare");
+        break;
+    default:
+        console.log("não sei");
+}
